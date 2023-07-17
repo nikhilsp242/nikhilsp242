@@ -2,6 +2,7 @@
 
 ![l-lawliet-death-note](https://github.com/nikhilsp242/nikhilsp242/assets/112267674/c72b8616-854e-43f4-8bfd-7f36707b1aa8)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=nikhilsp242)
 
 <!--
 **nikhilsp242/nikhilsp242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
