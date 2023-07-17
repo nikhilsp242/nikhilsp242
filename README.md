@@ -1,7 +1,6 @@
 # Hi there 👋
 
 
-![image](https://github.com/nikhilsp242/nikhilsp242/assets/112267674/9d0db59a-a621-413b-8022-5d2ea84ed395)
 
 
 
