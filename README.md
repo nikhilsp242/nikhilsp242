@@ -15,19 +15,41 @@
   <a href = "mailto:nikhilsp242@gmail.com.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <br>
+  <a href = "https://auth.geeksforgeeks.org/user/nikhilsp242/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href = "https://www.hackerrank.com/nikhilsp242?hr_r=1">
+  <img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+    </a>
 
   <br>
   <img src="https://komarev.com/ghpvc/?username=your-github-nikhilsp242&style=flat-square&color=blue" alt=""/>
   <br>
   <br>
+ <div style="text-align: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!">
+  </div>
   <h1>
   Hi ! I'm Nikhil 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
----
+<!--
+## About me
+:school: Currently studying Computer Science at Rutgers University, NJ</br>
+:fountain_pen: I have a passion for creative writing</br>
+:computer: I love PC building and computer hardware</br>
+:video_game: I'm an avid gamer</br>
+:shower: Fun fact: I take cold showers</br>
+:mailbox: How to reach me: <a href="mailto:kevinfeng.cs88@gmail.com">kevinfeng.cs88@gmail.com</a>
+-->
 
+<!--
+## Top repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=kahoot-monkey&theme=github_dark)](https://github.com/kevinfengcs88/kahoot-monkey)
+-->
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="65" height="65"/>&nbsp&nbsp&nbsp;
@@ -62,7 +84,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsp242&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<nikhilsp242>)](<https://auth.geeksforgeeks.org/user/nikhilsp242/>)
 <!--
 **nikhilsp242/nikhilsp242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
