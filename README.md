@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-   <font size="+2">Hey there ! 👋</font>
+   <font size="5">Hey there ! 👋</font>
 </div>
 
 
