@@ -84,7 +84,7 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsp242&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<nikhilsp242>)](<https://auth.geeksforgeeks.org/user/nikhilsp242/>)
+
 <!--
 **nikhilsp242/nikhilsp242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
