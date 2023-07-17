@@ -9,11 +9,11 @@
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=your-github-nikhilsp242&style=flat-square&color=blue" alt=""/>
+  <br>
+  <br>
+  <h1>Hey there! 👋</h1>
 </div>
 
-<div id="header" align="center">
-   <font size="5">Hey there ! 👋</font>
-</div>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nikhilsp242)
