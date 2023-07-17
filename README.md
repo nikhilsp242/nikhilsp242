@@ -4,9 +4,18 @@
   <a href="https://www.linkedin.com/in/nikhil-s-p-bb5504231/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <!--
   <a href="https://twitter.com/NikhilSP176242">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  -->
+  <a href = "http://discordapp.com/users/797359552874020954">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+  </a>
+  <a href = "mailto:nikhilsp242@gmail.com.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
   <br>
   <img src="https://komarev.com/ghpvc/?username=your-github-nikhilsp242&style=flat-square&color=blue" alt=""/>
   <br>
