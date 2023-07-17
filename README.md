@@ -6,13 +6,7 @@
   </a>
 </div>
 
-<div id="badges">
-  
-  <a href="https://auth.geeksforgeeks.org/user/nikhilsp242/practice">
-    <img src="https://img.shields.io/badge/GfG-white?style=for-the-badge&logo=GfG&logoColor=green" alt="GfG Badge"/>
-  </a>
- 
-</div>
+![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20X%20Problems-brightgreen)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nikhilsp242)
