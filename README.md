@@ -11,8 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-nikhilsp242&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-
+<div align="center">
+  # Hey there ! 👋
+</div>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nikhilsp242)
