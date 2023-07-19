@@ -45,6 +45,7 @@
 :computer: I love PC building and computer hardware</br>
 :video_game: I'm an avid gamer</br>
 :shower: Fun fact: I take cold showers</br>
+:coding and side projects
 :mailbox: How to reach me: <a href="mailto:kevinfeng.cs88@gmail.com">kevinfeng.cs88@gmail.com</a>
 -->
 
