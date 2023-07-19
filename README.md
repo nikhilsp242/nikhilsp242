@@ -26,15 +26,16 @@
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=your-github-nikhilsp242&style=flat-square&color=blue" alt=""/>
+  <h1>
+  Hi ! I'm Nikhil 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
   <br>
   <br>
  <div style="text-align: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!">
   </div>
-  <h1>
-  Hi ! I'm Nikhil 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  
 </div>
 
 <!--
@@ -84,10 +85,14 @@
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsp242&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kxkeztj7ws5qo4yh3tycblv6gq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31kxkeztj7ws5qo4yh3tycblv6gq&redirect=true)
+-->
 
 <!--
 **nikhilsp242/nikhilsp242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
