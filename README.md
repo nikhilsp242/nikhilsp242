@@ -12,7 +12,7 @@
   <a href = "http://discordapp.com/users/797359552874020954">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
   </a>
-  <a href = "mailto:nikhilsp242@gmail.com.com">
+  <a href = "mailto:nikhilsp242@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <br>
