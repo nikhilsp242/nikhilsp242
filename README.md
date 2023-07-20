@@ -27,7 +27,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=your-github-nikhilsp242&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hi ! I'm Nikhil 
+  Hi , I'm Nikhil !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <br>
