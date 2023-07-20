@@ -77,7 +77,7 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="65" height="65"/>&nbsp&nbsp&nbsp;
 </div>
 
----
+</br>
 
 ### :fire: My GitHub Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsp242&theme=2077)
