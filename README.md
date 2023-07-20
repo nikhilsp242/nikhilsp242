@@ -38,16 +38,15 @@
   
 </div>
 
-<!--
+
 ## About me
-:school: Currently studying Computer Science at Rutgers University, NJ</br>
-:fountain_pen: I have a passion for creative writing</br>
-:computer: I love PC building and computer hardware</br>
-:video_game: I'm an avid gamer</br>
-:shower: Fun fact: I take cold showers</br>
-:coding and side projects
-:mailbox: How to reach me: <a href="mailto:kevinfeng.cs88@gmail.com">kevinfeng.cs88@gmail.com</a>
--->
+🧑‍🎓 Final year Computer Science student at PES University, Bangalore</br>
+🧑‍💻 I'm a competitive coder and I love Problem Solving</br>
+💻 Along with coding and I also do side projects </br>
+💪 I'm a calithenic athlete (Beginner) </br>
+📖 I'm currently learning Web-Automation
+
+
 
 <!--
 ## Top repositories
