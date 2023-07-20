@@ -35,15 +35,20 @@
  <div style="text-align: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!">
   </div>
-  
 </div>
+
+<div id="header" align="center">
+  <img src="https://tenor.com/bje94.gif" width="500"/>
+</div>
+
+
 
 
 ## About me
 #### 🧑‍🎓 Final year Computer Science student at PES University, Bangalore</br>
 #### 🧑‍💻 I'm a competitive coder and I love Problem Solving</br>
-#### 💻 Along with coding and I also do side projects </br>
-#### 💪 I'm a calithenic athlete (Beginner) </br>
+#### 💻 Along with coding and I also take up side projects </br>
+#### 💪 I'm a calisthenic athlete (Beginner) </br>
 #### 📖 I'm currently learning Web-Automation </br>
 
 
@@ -86,6 +91,7 @@
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikhilsp242&theme=dark&hide_border=true&card_width=500&type=png)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsp242&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
