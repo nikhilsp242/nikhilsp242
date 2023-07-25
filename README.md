@@ -32,7 +32,7 @@
 </h1>
   <br>
   <br>
- <div style="text-align: center;">
+ <div id="header" align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!">
   </div>
 </div>
