@@ -80,11 +80,11 @@
 </br>
 
 ### :fire: My GitHub Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsp242&theme=2077)
+![Stats Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsp242&theme=2077)
 <br>
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikhilsp242&theme=dark&hide_border=true&card_width=500&type=png)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsp242&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikhilsp242&theme=dark&hide_border=true&card_width=500&type=png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsp242&layout=compact&theme=vision-friendly-dark)
 
 
 
