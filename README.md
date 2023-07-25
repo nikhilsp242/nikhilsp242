@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ0bGtjcjhpMmk3NnhiZnQ5Z3dzNjRjZXZ5Y21pZmFzOTgwd3VhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26SdS6M9jzxdqq72JU/giphy.gif" width="300"/>
 <br>
   <a href="https://www.linkedin.com/in/nikhil-s-p-bb5504231/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
