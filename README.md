@@ -43,7 +43,7 @@
 #### 🧑‍💻 I'm a competitive coder and I love Problem Solving</br>
 #### 💻 Along with coding and I also take up Side Projects </br>
 #### 💪 I'm a Calisthenics athlete (Beginner) </br>
-#### 📖 I'm currently learning Web-Automation </br>
+#### 📖 I'm currently learning Cyber Security </br>
 
 </br>
 
