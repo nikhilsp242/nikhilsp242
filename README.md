@@ -84,16 +84,15 @@
 ![Stats Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsp242&theme=2077)
 <br>
 <br>
-<!--
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikhilsp242&theme=dark&hide_border=true&card_width=500&type=png) 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikhilsp242&theme=dark&hide_border=true&card_width=500&type=png) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsp242&layout=compact&theme=vision-friendly-dark)
 
 
+### 🎵 Spotify :
 
-<!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kxkeztj7ws5qo4yh3tycblv6gq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31kxkeztj7ws5qo4yh3tycblv6gq&redirect=true)
--->
+
 
 <!--
 **nikhilsp242/nikhilsp242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
