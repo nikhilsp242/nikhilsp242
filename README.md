@@ -89,9 +89,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsp242&layout=compact&theme=vision-friendly-dark)
 
 
-### 🎵 Spotify :
-
+### 🎵 Spotify :  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kxkeztj7ws5qo4yh3tycblv6gq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31kxkeztj7ws5qo4yh3tycblv6gq&redirect=true)
+
+<!---
+<div id="header">
+  <a href="https://open.spotify.com/user/31kxkeztj7ws5qo4yh3tycblv6gq">
+    <img src="https://github.com/nikhilsp242/nikhilsp242/assets/112267674/3cc0a862-f9dd-4fa9-8e05-649feb2b7d19" alt="My Playlists">
+  </a>
+</div>
+
+
 
 
 <!--
