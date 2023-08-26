@@ -43,7 +43,7 @@
 
 ## 💁 About me
 #### 🧑‍🎓 Final year Computer Science student at PES University, Bangalore</br>
-#### 🧑‍💻 I'm a competitive coder and I love Problem Solving</br>
+#### 🧑‍💻 I'm a passionate leaner and I love Solving Problems </br>
 #### 💻 Along with coding and I also take up Side Projects </br>
 #### 💪 I'm a Calisthenics athlete (Beginner) </br>
 #### 📖 I'm currently learning Cyber Security </br>
