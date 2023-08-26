@@ -19,8 +19,8 @@
   <a href = "https://auth.geeksforgeeks.org/user/nikhilsp242/">
   <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
-  <a href = "https://www.hackerrank.com/nikhilsp242?hr_r=1">
-  <img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  <a href = "https://leetcode.com/nikhilsp/">
+  <img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
     </a>
 
   <br>
