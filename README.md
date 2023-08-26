@@ -1,27 +1,30 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ0bGtjcjhpMmk3NnhiZnQ5Z3dzNjRjZXZ5Y21pZmFzOTgwd3VhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26SdS6M9jzxdqq72JU/giphy.gif" width="300"/>
 <br>
-  <a href="https://www.linkedin.com/in/nikhil-s-p-bb5504231/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <!--
-  <a href="https://twitter.com/NikhilSP176242">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  -->
-  <a href = "http://discordapp.com/users/797359552874020954">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-  </a>
-  <a href = "mailto:nikhilsp242@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <br>
   <a href = "https://auth.geeksforgeeks.org/user/nikhilsp242/">
   <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
   <a href = "https://leetcode.com/nikhilsp/">
   <img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
     </a>
+  
+  <!--
+  <a href="https://twitter.com/NikhilSP176242">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href = "http://discordapp.com/users/797359552874020954">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+  </a>
+  -->
+
+  <br>
+  <a href="https://www.linkedin.com/in/nikhil-s-p-bb5504231/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href = "mailto:nikhilsp242@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  
 
   <br>
   <br>
