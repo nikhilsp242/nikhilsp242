@@ -96,7 +96,7 @@
 <div>
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kxkeztj7ws5qo4yh3tycblv6gq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31kxkeztj7ws5qo4yh3tycblv6gq&redirect=true)
-<a href="https://open.spotify.com/user/31kxkeztj7ws5qo4yh3tycblv6gq">
+<a href="https://open.spotify.com/user/31kxkeztj7ws5qo4yh3tycblv6gq?si=f7ac21bf8d6d4c2c">
     <img src="https://github.com/nikhilsp242/GitImages/blob/main/GitProfile/spotifyProfile-circular-cropped.png" alt="My Playlists">
   </a>
 </div>
