@@ -87,7 +87,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=nikhilsp242&theme=highcontrast&hide_border=true&card_width=495)](https://git.io/streak-stats)  &nbsp; &nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsp242&layout=compact&theme=vision-friendly-dark)
 
 
-### 🎵 Spotify : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **My profile 👇**
+### 🎵 Spotify : 
 <div>
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kxkeztj7ws5qo4yh3tycblv6gq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31kxkeztj7ws5qo4yh3tycblv6gq&redirect=true)
@@ -95,6 +95,7 @@
 <a href="https://open.spotify.com/user/31kxkeztj7ws5qo4yh3tycblv6gq?si=f7ac21bf8d6d4c2c">
     <img src="https://github.com/nikhilsp242/GitImages/blob/main/GitProfile/spotifyProfile-circular-cropped.png" width=180 alt="My Playlists">
   </a>
+  **👈 Click Here**
 </div>
 
 
