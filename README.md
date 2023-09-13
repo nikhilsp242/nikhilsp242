@@ -95,9 +95,9 @@
 <a href="https://open.spotify.com/user/31kxkeztj7ws5qo4yh3tycblv6gq?si=f7ac21bf8d6d4c2c">
     <img src="https://github.com/nikhilsp242/GitImages/blob/main/GitProfile/spotifyProfile-circular-cropped.png" width=180 alt="My Playlists">
   </a>
-  **👈 Click Here**
+ **👈 Click Here**
 </div>
-
+ 
 
 <!--
 <div>
