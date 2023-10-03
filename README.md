@@ -42,11 +42,11 @@
 
 
 ## 💁 About me
-#### 🧑‍🎓 Final year Computer Science student at PES University, Bangalore</br>
-#### 🧑‍💻 I'm a passionate learner and I love Solving Problems </br>
-#### 💻 Along with coding and I also take up Side Projects </br>
-#### 💪 I'm a Calisthenics athlete (Beginner) </br>
-#### 📖 I'm currently learning Cyber Security </br>
+**🧑‍🎓 Final year Computer Science student at PES University, Bangalore** </br> </br>
+**🧑‍💻 I'm a passionate learner and I love Solving Problems** </br> </br>
+**💻 Along with coding and I also take up Side Projects** </br> </br>
+**💪 I'm a Calisthenics athlete (Beginner)** </br> </br>
+**📖 I'm currently learning Cyber Security** </br> </br>
 
 </br>
 
