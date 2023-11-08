@@ -46,7 +46,7 @@
 **🧑‍💻 I'm a passionate learner and I love Solving Problems** </br> </br>
 **💻 Along with coding and I also take up Side Projects** </br> </br>
 **💪 I'm a Calisthenics athlete (Beginner)** </br> </br>
-**📖 I'm currently learning Cyber Security** </br> </br>
+**📖 I'm currently learning Web Development** </br> </br>
 
 </br>
 
