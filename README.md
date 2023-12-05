@@ -55,7 +55,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilsp242&repo=GeeksforGeeks_Submissions&theme=github_dark)](https://github.com/nikhilsp242/GeeksforGeeks_Submissions)
 -->
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="65" height="65"/>&nbsp&nbsp&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="65" height="65"/>&nbsp&nbsp&nbsp;
@@ -83,7 +83,7 @@
 
 </br>
 
-### :fire: My GitHub Stats :
+### 🔥 My GitHub Stats :
 ![GitHub Streak](https://streak-stats.demolab.com?user=nikhilsp242&theme=highcontrast&hide_border=true&card_width=495)  &nbsp; &nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsp242&layout=compact&theme=vision-friendly-dark)
 
 
