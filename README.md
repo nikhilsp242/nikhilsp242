@@ -86,7 +86,7 @@
 ### 🔥 My GitHub Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=nikhilsp242&theme=highcontrast)](https://git.io/streak-stats)  &nbsp; &nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsp242&layout=compact&theme=vision-friendly-dark)
 
-
+<!--
 ### 🎵 Spotify : 
 <div>
   
@@ -99,7 +99,7 @@
 </div>
  
 
-<!--
+
 <div>
 
     this gives copy code option
