@@ -41,14 +41,20 @@
 </div>
 
 
-## 💁 About me
-**🧑‍🎓 Final year Computer Science student at PES University, Bangalore** </br> </br>
-**🧑‍💻 I'm a passionate learner and I love Solving Problems** </br> </br>
-**💻 Along with coding and I also take up Side Projects** </br> </br>
-**💪 I'm a Calisthenics athlete (Beginner)** </br> </br>
-**📖 I'm currently learning Web Development** </br> </br>
+---
 
-</br>
+## 💁 About Me
+
+- 🎓 **Currently pursuing M.Tech in Computer Science at NIT Jalandhar**
+- 🧠 **Cleared GATE 2025**
+- 👨‍🎓 **Completed B.Tech in Computer Science from PES University, Bangalore**
+- 💻 **Passionate about solving problems and building side projects**
+- 🌐 **Currently learning Web Development**
+- 🧘‍♂️ **Beginner Calisthenics athlete**
+- 🔁 **Always open to learning and exploring new tech**
+
+---
+
 
 <!--
 ## Top repositories
