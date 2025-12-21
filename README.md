@@ -49,8 +49,6 @@
 - 🧠 **Cleared GATE 2025**
 - 👨‍🎓 **Completed B.Tech in Computer Science from PES University, Bangalore**
 - 💻 **Passionate about solving problems and building side projects**
-- 🌐 **Currently learning Web Development**
-- 🧘‍♂️ **Beginner Calisthenics athlete**
 - 🔁 **Always open to learning and exploring new tech**
 
 ---
