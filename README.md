@@ -1,94 +1,43 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ0bGtjcjhpMmk3NnhiZnQ5Z3dzNjRjZXZ5Y21pZmFzOTgwd3VhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26SdS6M9jzxdqq72JU/giphy.gif" width="300"/>
-<br>
-  <a href = "https://auth.geeksforgeeks.org/user/nikhilsp242/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  <a href = "https://leetcode.com/nikhilsp/">
-  <img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-    </a>
-  
-  <!--
-  <a href="https://twitter.com/NikhilSP176242">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href = "http://discordapp.com/users/797359552874020954">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-  </a>
-  -->
+# Hi, I'm Nikhil 👋
 
-  <br>
-  <a href="https://www.linkedin.com/in/nikhil-s-p-bb5504231/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href = "mailto:nikhilsp242@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  
-
-  <br>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-nikhilsp242&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hi , I'm Nikhil !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  <br>
-  <br>
- <div id="header" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!">
-  </div>
-</div>
-
+🎓 M.Tech CSE @ NIT Jalandhar  
+🏆 GATE 2025 Qualified  
+💻 Interested in Backend Systems & AI Integration  
+🚀 Building scalable applications using Python & C++
 
 ---
 
-## 💁 About Me
-
-- 🎓 **Currently pursuing M.Tech in Computer Science at NIT Jalandhar**
-- 🧠 **Cleared GATE 2025**
-- 👨‍🎓 **Completed B.Tech in Computer Science from PES University, Bangalore**
-- 💻 **Passionate about solving problems and building side projects**
-- 🔁 **Always open to learning and exploring new tech**
+## 🔧 Tech Stack
+- Languages: Python, C++, SQL  
+- Core: Data Structures & Algorithms, OOP, DBMS, OS, Computer Networks  
+- Tools: Git, Linux, SQLite  
+- AI/ML: PyTorch, TensorFlow, NLP  
 
 ---
 
+## 🚀 Featured Projects
 
-<!--
-## Top repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilsp242&repo=GeeksforGeeks_Submissions&theme=github_dark)](https://github.com/nikhilsp242/GeeksforGeeks_Submissions)
--->
+### 🔹 Multipurpose Discord Bot with LLM Integration
+- Built scalable Discord bot with moderation & automation features
+- Integrated Mixtral-8x7B-Instruct for context-aware chatbot functionality
+- Implemented short-term conversational memory using dynamic context payload construction
+- Managed token limits and optimized prompt structure
+- Used AsyncIO for concurrent interaction handling
 
-### 🛠️ Languages and Tools :
-<div>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/nikhilsp242/nikhilsp242/assets/112267674/5b5474a0-3097-4681-914b-a771ddff31ef" title="GitHub" alt="GitHub" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TF" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <br>
-  <br>
-  <img src = "https://github.com/nikhilsp242/nikhilsp242/assets/112267674/55e7a16b-c083-4de9-910d-97235c487546" title="ChatGPT" alt="ChatGPT" width="60" height="60"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="ubuntu" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Services" alt="aws" width="65" height="65"/>&nbsp&nbsp&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="65" height="65"/>&nbsp&nbsp&nbsp;
-</div>
+### 🔹 Mental Health Analysis using Reddit Data
+- Developed RNN and Attention-based models for text classification
+- Implemented using PyTorch with configurable hyperparameters
+- Compared multiple architectures for performance evaluation
 
-</br>
+### 🔹 Sign Language Recognition
+- Real-time hand sign detection using TensorFlow Object Detection API
+- Integrated OpenCV pipeline for live camera inference
 
-### 🔥 My GitHub Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=nikhilsp242&theme=highcontrast)](https://git.io/streak-stats)  &nbsp; &nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsp242&layout=compact&theme=vision-friendly-dark)
+---
+
+## 📈 Coding Profiles
+- LeetCode: https://leetcode.com/nikhilsp/
+- GeeksforGeeks: https://auth.geeksforgeeks.org/user/nikhilsp242/
 
 <!--
 ### 🎵 Spotify : 
