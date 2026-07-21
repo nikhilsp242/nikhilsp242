@@ -4,7 +4,7 @@
 🏆 GATE 2025 Qualified  
 💻 Interested in Backend Systems & AI Integration  
 🚀 Building scalable applications using Python & C++
-
+🖼️ Currently working on image steganography
 ---
 
 ## 🔧 Tech Stack
