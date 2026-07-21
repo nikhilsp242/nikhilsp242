@@ -3,7 +3,7 @@
 🎓 M.Tech CSE @ NIT Jalandhar  
 🏆 GATE 2025 Qualified  
 💻 Interested in Backend Systems & AI Integration  
-🚀 Building scalable applications using Python & C++
+🚀 Building scalable applications using Python & C++ <br>
 🖼️ Currently working on image steganography
 ---
 
