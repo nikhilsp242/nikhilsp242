@@ -1,93 +1,62 @@
 # Hi, I'm Nikhil 👋
 
-🎓 M.Tech CSE @ NIT Jalandhar  
-🏆 GATE 2025 Qualified  
-💻 Interested in Backend Systems & AI Integration  
-🚀 Building scalable applications using Python & C++ <br>
-🖼️ Currently working on image steganography
----
-
-## 🔧 Tech Stack
-- Languages: Python, C++, SQL  
-- Core: Data Structures & Algorithms, OOP, DBMS, OS, Computer Networks  
-- Tools: Git, Linux, SQLite  
-- AI/ML: PyTorch, TensorFlow, NLP  
+🎓 M.Tech Computer Science & Engineering @ NIT Jalandhar  
+🏆 GATE Qualified  
+💻 Interested in Software Engineering, AI/ML, and secure systems  
+🛠️ Building projects in Python, C++, and machine learning  
+🖼️ Currently researching image steganography and secure data embedding
 
 ---
 
-## 🚀 Featured Projects
+## About Me
 
-### 🔹 Multipurpose Discord Bot with LLM Integration
-- Built scalable Discord bot with moderation & automation features
-- Integrated Mixtral-8x7B-Instruct for context-aware chatbot functionality
-- Implemented short-term conversational memory using dynamic context payload construction
-- Managed token limits and optimized prompt structure
-- Used AsyncIO for concurrent interaction handling
+I'm a computer science postgraduate interested in building practical software and exploring how AI and security techniques can be applied to real problems. My projects span NLP, computer vision, API integration, and image steganography.
 
-### 🔹 Mental Health Analysis using Reddit Data
-- Developed RNN and Attention-based models for text classification
-- Implemented using PyTorch with configurable hyperparameters
-- Compared multiple architectures for performance evaluation
-
-### 🔹 Sign Language Recognition
-- Real-time hand sign detection using TensorFlow Object Detection API
-- Integrated OpenCV pipeline for live camera inference
+- **Languages:** Python, C++, SQL
+- **Core CS:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
+- **Tools:** Git, GitHub, Linux, SQLite
+- **AI/ML:** PyTorch, TensorFlow, NLP, Computer Vision
+- **Other interests:** API integration, software testing, cryptography, image processing
 
 ---
 
-## 📈 Coding Profiles
-- LeetCode: https://leetcode.com/nikhilsp/
-- GeeksforGeeks: https://auth.geeksforgeeks.org/user/nikhilsp242/
+## Featured Projects
 
-<!--
-### 🎵 Spotify : 
-<div>
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kxkeztj7ws5qo4yh3tycblv6gq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31kxkeztj7ws5qo4yh3tycblv6gq&redirect=true)
-&nbsp;
-<a href="https://open.spotify.com/user/31kxkeztj7ws5qo4yh3tycblv6gq?si=f7ac21bf8d6d4c2c">
-    <img src="https://github.com/nikhilsp242/GitImages/blob/main/GitProfile/spotifyProfile-circular-cropped.png" width=180 alt="My Playlists">
-  </a>
- **👈 Click Here**
-</div>
- 
+### 🔐 Dynamic XOR + AES Image Steganography
+An educational implementation inspired by a research paper on image steganography. The prototype encrypts text, applies a deterministic XOR transformation, and embeds ciphertext bits using sequential least-significant-bit replacement. Includes image-quality metrics and experiment records. This is an experimental implementation, not a faithful reproduction of the paper or a production security tool.
 
+**Technologies:** Python, AES, OpenCV, NumPy  
+[View repository](https://github.com/nikhilsp242/AES-LSB-Steganography)
 
-<div>
+### 🤖 Multipurpose Discord Bot with LLM Integration
+- Built a Discord bot with moderation and automation features.
+- Integrated Mixtral-8x7B-Instruct through an API for context-aware chatbot responses.
+- Constructed conversational context dynamically and handled interactions asynchronously.
 
-    this gives copy code option
-</div>
--->
-<!--
-```
-class Solution {
-public:
-    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int i = nums1.size()-1;
-        m--,n--;
-        while(i>=0 && n>=0){
-            if(m>=0 && nums1[m]>=nums2[n]) nums1[i--] = nums1[m--];
-            else nums1[i--] = nums2[n--];
-        }
-    }
-};
+### 🧠 Mental Health Analysis Using Reddit Data
+- Implemented RNN- and attention-based text-classification models in PyTorch.
+- Compared multiple model architectures for text classification.
 
-```
--->
+**Technologies:** Python, PyTorch, NLP, Deep Learning  
+[View repository](https://github.com/nikhilsp242/Mental-Health-Prediction)
 
-<!--
-**nikhilsp242/nikhilsp242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✋ Sign Language Recognition
+- Built real-time hand-sign detection using the TensorFlow Object Detection API.
+- Used OpenCV for webcam-based inference.
 
+**Technologies:** Python, TensorFlow, OpenCV  
+[View repository](https://github.com/nikhilsp242/Sign_Language_Recognition)
 
+### 🖼️ Current Research: Hash-Based Image Steganography
+Developing a research prototype for embedding encrypted text into images using hash-based pixel selection, with separate components for hash-table construction, pixel selection, encryption/decryption, and embedding/extraction. This work is ongoing; results and limitations are being evaluated.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coding Profiles
+
+- [LeetCode](https://leetcode.com/nikhilsp/)
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/nikhilsp242/)
+
+---
+
+Thanks for visiting my profile!
